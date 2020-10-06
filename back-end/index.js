@@ -1,36 +1,32 @@
-const express = require("express");
-const bodyParser = require("body-parser");
-const app = express();
-const YearWiseData = require("./getYearData").GetYearData;
-const orgDataJSON = require("./dbs/ORGData.json");
-const jsonDb = require("./dbManager").DBManager;
-const port = process.env.PORT || 5000;
-const yearWiseData = new YearWiseData();
-const db = new jsonDb();
+const express = require("express"),
+  bodyParser = require("body-parser"),
+  YearWiseData = require("./getYearData").GetYearData,
+  JsonDB = require("node-json-db").JsonDB,
+  Config = require("node-json-db/dist/lib/JsonDBConfig").Config,
+  port = process.env.PORT || 5000,
+  app = express(),
+  yearWiseData = new YearWiseData();
+
+var db = new JsonDB(new Config('./dbs/ORGData', true, true, "/"));
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
-
-function isEmptyObject(obj) {
-  return !Object.keys(obj).length;
-}
 
 app.get("/", (req, res) => {
   res.send("start");
 });
 
 app.get("/org-data", (req, res) => {
-  yearWiseData.getOrgYearWiseData().then((resss) => {
-    // console.log("res: ", resss);
-    res.send(resss);
-    if (isEmptyObject(orgDataJSON)) {
-      console.log("hi");
-      db.createDB("./dbs/ORGData");
-      db.pushData("/ORGData", resss, false);
-    } else {
-      console.log("data present");
-    }
-  });
+  var data;
+  try {
+    data = db.getData("/ORGData");
+  } catch {
+    yearWiseData.getOrgYearWiseData().then((data) => {
+      db.push("/ORGData", data, false);
+    });
+    data = db.getData("/ORGData");
+  }
+  res.send(data);
 });
 
 app.listen(port, () => console.log(`Listening on port ${port}`));
