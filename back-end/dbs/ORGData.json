@@ -1,0 +1,6571 @@
+{
+    "ORGData": {
+        "52° North GmbH": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "AboutCode.org": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "Academy Software Foundation (ASWF)": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Accord Project": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "AerospaceResearch.net": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "afl++": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Amahi": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2014
+            ]
+        },
+        "Android Graphics Tools Team": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "AnitaB.org Open Source": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "AOSSIE": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Apertium": {
+            "count": 9,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "apertus° Association": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "appleseed": {
+            "count": 2,
+            "year": [
+                2020,
+                2014
+            ]
+        },
+        "Arduino": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "ArduPilot": {
+            "count": 3,
+            "year": [
+                2020,
+                2018,
+                2017
+            ]
+        },
+        "BeagleBoard.org": {
+            "count": 7,
+            "year": [
+                2020,
+                2019,
+                2016,
+                2015,
+                2014,
+                2013,
+                2010
+            ]
+        },
+        "BioGears": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Blender Foundation": {
+            "count": 11,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Boost C++": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "BRL-CAD": {
+            "count": 11,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2009
+            ]
+        },
+        "caMicroscope": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Canadian Centre for Computational Genomics": {
+            "count": 2,
+            "year": [
+                2020,
+                2018
+            ]
+        },
+        "Casbin": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Catrobat": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "CCExtractor Development": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "Ceph Foundation": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "CERN-HSF": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "CGAL Project": {
+            "count": 2,
+            "year": [
+                2020,
+                2018
+            ]
+        },
+        "CHAOSS": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "Chapel": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2017,
+                2016
+            ]
+        },
+        "Checker Framework": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "Checkstyle": {
+            "count": 3,
+            "year": [
+                2020,
+                2017,
+                2014
+            ]
+        },
+        "CircuitVerse.org": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "CiviCRM": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2016,
+                2015,
+                2014
+            ]
+        },
+        "Cloud Native Computing Foundation (CNCF)": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "CloudCV": {
+            "count": 6,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015
+            ]
+        },
+        "Continuous Delivery Foundation": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "coreboot": {
+            "count": 9,
+            "year": [
+                2020,
+                2019,
+                2016,
+                2015,
+                2014,
+                2013,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Creative Commons": {
+            "count": 6,
+            "year": [
+                2020,
+                2019,
+                2013,
+                2012,
+                2010,
+                2009
+            ]
+        },
+        "CRIU": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Cuneiform Digital Library Initiative (CDLI)": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "Dart": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "DBpedia": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "Debian": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2009
+            ]
+        },
+        "Digital Impact Alliance (DIAL) at UN Foundation": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Django Software Foundation": {
+            "count": 11,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Drupal": {
+            "count": 11,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Eclipse Foundation": {
+            "count": 3,
+            "year": [
+                2020,
+                2016,
+                2009
+            ]
+        },
+        "Elastic": {
+            "count": 2,
+            "year": [
+                2020,
+                2018
+            ]
+        },
+        "Embox": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Erlang Ecosystem Foundation": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Fedora Project": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "FFmpeg": {
+            "count": 8,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2010,
+                2009
+            ]
+        },
+        "FOSSology": {
+            "count": 2,
+            "year": [
+                2020,
+                2018
+            ]
+        },
+        "FrameNet Brasil (UFJF)": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Free and Open Source Silicon Foundation": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "FreeBSD Project": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "FreeType": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "FRRouting": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "GDevelop": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Gentoo Foundation": {
+            "count": 10,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "GeomScale": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Git": {
+            "count": 10,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "Global Alliance for Genomics and Health": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "GNOME": {
+            "count": 11,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2010,
+                2009
+            ]
+        },
+        "GNSS-SDR": {
+            "count": 7,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2015,
+                2014,
+                2013
+            ]
+        },
+        "GNU Compiler Collection (GCC)": {
+            "count": 2,
+            "year": [
+                2020,
+                2018
+            ]
+        },
+        "GNU Octave": {
+            "count": 6,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014
+            ]
+        },
+        "GNU Radio": {
+            "count": 7,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2013
+            ]
+        },
+        "Godot Engine": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "GPAC": {
+            "count": 2,
+            "year": [
+                2020,
+                2016
+            ]
+        },
+        "GraphQL Foundation": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Haiku": {
+            "count": 9,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2014,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Haskell.org": {
+            "count": 2,
+            "year": [
+                2020,
+                2018
+            ]
+        },
+        "Hazelcast": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Homebrew": {
+            "count": 4,
+            "year": [
+                2020,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "Hydra Ecosystem": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "INCF": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "Inclusive Design Institute": {
+            "count": 7,
+            "year": [
+                2020,
+                2018,
+                2016,
+                2014,
+                2013,
+                2012,
+                2010
+            ]
+        },
+        "Inkscape": {
+            "count": 11,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Intel Media And Audio For Linux": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "Internet Archive": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "JBoss Community": {
+            "count": 9,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "JdeRobot - Universidad Rey Juan Carlos": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2015
+            ]
+        },
+        "Jenkins project": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "Joplin": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Kapitan": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "KDE Community": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "Kiwix": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "Kodi Foundation": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "Kubeflow": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "LabLua": {
+            "count": 7,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014
+            ]
+        },
+        "Libre Space Foundation": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "LibreHealth": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "LibreOffice": {
+            "count": 10,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "libvirt": {
+            "count": 3,
+            "year": [
+                2020,
+                2018,
+                2017
+            ]
+        },
+        "Linkerd": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "Liquid Galaxy project": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "lowRISC": {
+            "count": 4,
+            "year": [
+                2020,
+                2017,
+                2016,
+                2015
+            ]
+        },
+        "MacPorts": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2013
+            ]
+        },
+        "MariaDB Foundation": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "Matrix": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "MBDyn": {
+            "count": 2,
+            "year": [
+                2020,
+                2017
+            ]
+        },
+        "MDAnalysis": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "MetaBrainz Foundation Inc.": {
+            "count": 9,
+            "year": [
+                2020,
+                2018,
+                2017,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "Metasploit": {
+            "count": 3,
+            "year": [
+                2020,
+                2018,
+                2017
+            ]
+        },
+        "MGGG Redistricting Lab": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "MIT App Inventor": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2017
+            ]
+        },
+        "Mixxx": {
+            "count": 2,
+            "year": [
+                2020,
+                2011
+            ]
+        },
+        "mlpack": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "Moira": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "MoveIt": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Mozilla": {
+            "count": 10,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "MuseScore": {
+            "count": 7,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2013
+            ]
+        },
+        "mypy": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "MZmine": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "National Resource for Network Biology (NRNB)": {
+            "count": 8,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Neovim": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "Netty": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "NumFOCUS": {
+            "count": 6,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015
+            ]
+        },
+        "NV Access": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "Open Bioinformatics Foundation (OBF)": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Open Chemistry": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "Open Genome Informatics": {
+            "count": 3,
+            "year": [
+                2020,
+                2017,
+                2016
+            ]
+        },
+        "Open Roberta": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "Open Source Robotics Foundation": {
+            "count": 7,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2016,
+                2015,
+                2014,
+                2013
+            ]
+        },
+        "OpenAstronomy": {
+            "count": 4,
+            "year": [
+                2020,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "OpenCV": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2017,
+                2016
+            ]
+        },
+        "OpenEMR": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "OpenHMD": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "OpenMined": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "OpenMRS": {
+            "count": 12,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "OpenRefine": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "OpenStreetMap": {
+            "count": 10,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "openSUSE Project": {
+            "count": 3,
+            "year": [
+                2020,
+                2011,
+                2009
+            ]
+        },
+        "OpenWISP": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "Oppia Foundation": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "Orcasound": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "OSGeo": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "OWASP Foundation": {
+            "count": 6,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2016,
+                2014,
+                2012
+            ]
+        },
+        "PEcAn Project": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "Percona": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "Performance Co-Pilot": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "Pitivi": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "Point Cloud Library": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "PostgreSQL": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2010
+            ]
+        },
+        "Postman": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Processing Foundation": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "Purr Data": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "Python Software Foundation": {
+            "count": 12,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "QEMU": {
+            "count": 7,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014
+            ]
+        },
+        "Qubes OS": {
+            "count": 2,
+            "year": [
+                2020,
+                2017
+            ]
+        },
+        "R Project for Statistical Computing": {
+            "count": 4,
+            "year": [
+                2020,
+                2015,
+                2014,
+                2010
+            ]
+        },
+        "Radare": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "ReactOS": {
+            "count": 6,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2011
+            ]
+        },
+        "Red Hen Lab": {
+            "count": 6,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015
+            ]
+        },
+        "RoboComp": {
+            "count": 6,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2015,
+                2013
+            ]
+        },
+        "Rocket.Chat": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "RTEMS Project": {
+            "count": 12,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Ruby": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2016,
+                2015
+            ]
+        },
+        "SageMath": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "Samba": {
+            "count": 9,
+            "year": [
+                2020,
+                2019,
+                2017,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "SCoRe Lab": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "ScummVM": {
+            "count": 11,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Shogun": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "SPDX": {
+            "count": 2,
+            "year": [
+                2020,
+                2018
+            ]
+        },
+        "Ste||ar group": {
+            "count": 1,
+            "year": [
+                2020
+            ]
+        },
+        "strace": {
+            "count": 7,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014
+            ]
+        },
+        "Submitty": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "Sugar Labs": {
+            "count": 9,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2010
+            ]
+        },
+        "Swift": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "SymbiFlow": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "SymPy": {
+            "count": 9,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "Synfig": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "syslog-ng": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "TARDIS-SN": {
+            "count": 2,
+            "year": [
+                2020,
+                2016
+            ]
+        },
+        "TensorFlow": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "The Apache Software Foundation": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2009
+            ]
+        },
+        "The GNU Project": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2017,
+                2010
+            ]
+        },
+        "The Honeynet Project": {
+            "count": 11,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "The Java Pathfinder Team": {
+            "count": 8,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2013,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "The Julia Language": {
+            "count": 5,
+            "year": [
+                2020,
+                2019,
+                2017,
+                2016,
+                2014
+            ]
+        },
+        "The Libreswan Project": {
+            "count": 4,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "The Linux Foundation": {
+            "count": 11,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "The LLVM Compiler Infrastructure": {
+            "count": 3,
+            "year": [
+                2020,
+                2016,
+                2011
+            ]
+        },
+        "The Mifos Initiative": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "The NetBSD Foundation": {
+            "count": 9,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2013,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "The ns-3 Network Simulator Project": {
+            "count": 10,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2015,
+                2014,
+                2013,
+                2012,
+                2010,
+                2009
+            ]
+        },
+        "The Terasology Foundation": {
+            "count": 2,
+            "year": [
+                2020,
+                2019
+            ]
+        },
+        "The Wine Project": {
+            "count": 9,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2010,
+                2009
+            ]
+        },
+        "VideoLAN": {
+            "count": 7,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "webpack": {
+            "count": 3,
+            "year": [
+                2020,
+                2019,
+                2018
+            ]
+        },
+        "Wikimedia Foundation": {
+            "count": 10,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Wireshark": {
+            "count": 2,
+            "year": [
+                2020,
+                2013
+            ]
+        },
+        "X.Org Foundation": {
+            "count": 8,
+            "year": [
+                2020,
+                2019,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2011
+            ]
+        },
+        "Xapian Search Engine Library": {
+            "count": 8,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2012,
+                2011
+            ]
+        },
+        "XMPP Standards Foundation": {
+            "count": 6,
+            "year": [
+                2020,
+                2017,
+                2015,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "XWiki": {
+            "count": 8,
+            "year": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2012,
+                2011,
+                2009
+            ]
+        },
+        "Zulip": {
+            "count": 3,
+            "year": [
+                2020,
+                2018,
+                2017
+            ]
+        },
+        "52°North Initiative for Geospatial Open Source Software GmbH": {
+            "count": 7,
+            "year": [
+                2019,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "aimacode": {
+            "count": 4,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "AOSSIE - Australian Open Source Software Innovation and Education": {
+            "count": 3,
+            "year": [
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "API Client Tools at Google": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "appleseedhq": {
+            "count": 3,
+            "year": [
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "Ardupilot.org": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Bazel": {
+            "count": 2,
+            "year": [
+                2019,
+                2017
+            ]
+        },
+        "Berkman Klein Center for Internet and Society": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Biomedical Informatics, Emory University": {
+            "count": 4,
+            "year": [
+                2019,
+                2016,
+                2015,
+                2014
+            ]
+        },
+        "Buildroot": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Canadian Center for Computational Genomics": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "cBioPortal for Cancer Genomics": {
+            "count": 3,
+            "year": [
+                2019,
+                2017,
+                2016
+            ]
+        },
+        "CBMI@UTHSC": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Center for Research in Open Source Software at UC Santa Cruz": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "CGAL project": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "CLiPS, University of Antwerp": {
+            "count": 3,
+            "year": [
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "coala": {
+            "count": 3,
+            "year": [
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "Computational Biology @ University of Nebraska-Lincoln": {
+            "count": 4,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "CRIU (Checkpoint/Restore in User-space)": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "D Programming Language": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Developers Italia": {
+            "count": 2,
+            "year": [
+                2019,
+                2018
+            ]
+        },
+        "Digital Impact Alliance": {
+            "count": 2,
+            "year": [
+                2019,
+                2018
+            ]
+        },
+        "Earth Science Information Partners": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "FOSDEM": {
+            "count": 2,
+            "year": [
+                2019,
+                2017
+            ]
+        },
+        "FOSSASIA": {
+            "count": 8,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2012,
+                2011
+            ]
+        },
+        "FOSSology Project": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "FrameNet Brasil at the Federal University of Juiz de Fora": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "FreeBSD": {
+            "count": 9,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "freifunk": {
+            "count": 4,
+            "year": [
+                2019,
+                2018,
+                2012,
+                2011
+            ]
+        },
+        "Genes, Genomes and Variation": {
+            "count": 4,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "GENIVI Alliance": {
+            "count": 2,
+            "year": [
+                2019,
+                2018
+            ]
+        },
+        "GNU Compiler Collection": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "GNU Mailman": {
+            "count": 3,
+            "year": [
+                2019,
+                2016,
+                2015
+            ]
+        },
+        "gprMax": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Haskell.Org": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Institut für Angewandte Informatik (InfAI) e.V.": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "InterMine": {
+            "count": 2,
+            "year": [
+                2019,
+                2018
+            ]
+        },
+        "Internet Systems Consortium": {
+            "count": 2,
+            "year": [
+                2019,
+                2018
+            ]
+        },
+        "JabRef": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Joomla": {
+            "count": 2,
+            "year": [
+                2019,
+                2017
+            ]
+        },
+        "JSK Robotics Laboratory / The University of Tokyo": {
+            "count": 2,
+            "year": [
+                2019,
+                2018
+            ]
+        },
+        "KNIME": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Libvirt": {
+            "count": 2,
+            "year": [
+                2019,
+                2016
+            ]
+        },
+        "LLVM Compiler Infrastructure": {
+            "count": 8,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2015,
+                2014,
+                2013,
+                2010,
+                2009
+            ]
+        },
+        "LuaRocks": {
+            "count": 3,
+            "year": [
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "Matrix.org": {
+            "count": 4,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "MBDyn - Multibody Dynamics": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "MetaBrainz Foundation Inc": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Moodle": {
+            "count": 10,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2009
+            ]
+        },
+        "Named Data Networking Project": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Netfilter project": {
+            "count": 4,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "Open Astronomy": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Open Bioinformatics Foundation": {
+            "count": 8,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016,
+                2014,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "Open Data Kit": {
+            "count": 3,
+            "year": [
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "Open Technologies Aliance - GFOSS": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Pharo Consortium": {
+            "count": 2,
+            "year": [
+                2019,
+                2017
+            ]
+        },
+        "phpMyAdmin": {
+            "count": 9,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "Project PANOPTES": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Public Lab": {
+            "count": 4,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "R project for statistical computing": {
+            "count": 5,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016,
+                2012
+            ]
+        },
+        "Read the Docs": {
+            "count": 2,
+            "year": [
+                2019,
+                2018
+            ]
+        },
+        "Ruby Science Foundation": {
+            "count": 6,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2013
+            ]
+        },
+        "Salesforce": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "SCoRe Lab (Sustainable Computing Research Lab)": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "shogun.ml": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Software and Computational Systems Lab at LMU Munich": {
+            "count": 2,
+            "year": [
+                2019,
+                2018
+            ]
+        },
+        "Software Heritage": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "SPDX (Software Product Data Exchange)": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "The Center for Connected Learning and Computer-Based Modeling": {
+            "count": 4,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "The Eclipse Foundation": {
+            "count": 8,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "The Perl Foundation": {
+            "count": 5,
+            "year": [
+                2019,
+                2014,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "The Postgres Operator": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "The Processing Foundation": {
+            "count": 5,
+            "year": [
+                2019,
+                2018,
+                2017,
+                2015,
+                2014
+            ]
+        },
+        "The Vega Project at the University of Washington": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "TimVideos.us": {
+            "count": 5,
+            "year": [
+                2019,
+                2018,
+                2016,
+                2014,
+                2013
+            ]
+        },
+        "Tokio": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Tungsten Fabric": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "UCSC Xena": {
+            "count": 3,
+            "year": [
+                2019,
+                2018,
+                2017
+            ]
+        },
+        "Xi Editor": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "XMPP Standards Foundation (XSF)": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "xpra": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "Zulip Open Source Project": {
+            "count": 2,
+            "year": [
+                2019,
+                2016
+            ]
+        },
+        "ZynAddSubFX": {
+            "count": 1,
+            "year": [
+                2019
+            ]
+        },
+        "3DTK": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "52° North Initiative for Geospatial Open Source Software GmbH": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Apache Software Foundation": {
+            "count": 9,
+            "year": [
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "Apertus Association": {
+            "count": 2,
+            "year": [
+                2018,
+                2017
+            ]
+        },
+        "BeagleBoard.org Foundation": {
+            "count": 2,
+            "year": [
+                2018,
+                2017
+            ]
+        },
+        "Beam Community": {
+            "count": 3,
+            "year": [
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "BeeWare Project": {
+            "count": 2,
+            "year": [
+                2018,
+                2017
+            ]
+        },
+        "Berkman Klein Center for Internet & Society at Harvard University": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Boost C++ Libraries": {
+            "count": 7,
+            "year": [
+                2018,
+                2017,
+                2015,
+                2014,
+                2013,
+                2011,
+                2010
+            ]
+        },
+        "Boston University / XIA": {
+            "count": 4,
+            "year": [
+                2018,
+                2017,
+                2016,
+                2015
+            ]
+        },
+        "Center for Research In Open Source Software (CROSS) at UC Santa Cruz": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "CHAOSS: Community Health Analytics Open Source Software": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "CiviCRM LLC": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Classical Language Toolkit": {
+            "count": 3,
+            "year": [
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "Conversations.im": {
+            "count": 2,
+            "year": [
+                2018,
+                2017
+            ]
+        },
+        "Cuneiform Digital Library Initiative": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Debian Project": {
+            "count": 7,
+            "year": [
+                2018,
+                2016,
+                2015,
+                2014,
+                2013,
+                2011,
+                2010
+            ]
+        },
+        "Earth Science Information Partners (ESIP)": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Eta": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Free UK Genealogy": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "GFOSS - Open Technologies Alliance": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "GNU Project": {
+            "count": 7,
+            "year": [
+                2018,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2009
+            ]
+        },
+        "gRPC": {
+            "count": 2,
+            "year": [
+                2018,
+                2016
+            ]
+        },
+        "Inria Foundation": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Institute for Artificial Intelligence": {
+            "count": 4,
+            "year": [
+                2018,
+                2017,
+                2015,
+                2014
+            ]
+        },
+        "JGraphT": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Jitsi": {
+            "count": 3,
+            "year": [
+                2018,
+                2017,
+                2014
+            ]
+        },
+        "Joomla!": {
+            "count": 4,
+            "year": [
+                2018,
+                2016,
+                2012,
+                2009
+            ]
+        },
+        "languagetool.org": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "LEAP Encryption Access Project": {
+            "count": 2,
+            "year": [
+                2018,
+                2014
+            ]
+        },
+        "Mixxx DJ Software": {
+            "count": 6,
+            "year": [
+                2018,
+                2017,
+                2016,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Mobile Robot Programming Toolkit (MRPT)": {
+            "count": 3,
+            "year": [
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "MovingBlocks": {
+            "count": 3,
+            "year": [
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "omegaUp.com": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Open Food Facts": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Open Roberta Lab": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Open States": {
+            "count": 2,
+            "year": [
+                2018,
+                2017
+            ]
+        },
+        "OpenCensus": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "OpenSIPS": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "openSUSE": {
+            "count": 6,
+            "year": [
+                2018,
+                2017,
+                2016,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "OpnTec": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "OW2": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "P2PSP.org": {
+            "count": 4,
+            "year": [
+                2018,
+                2017,
+                2016,
+                2015
+            ]
+        },
+        "phpBB Forum Software": {
+            "count": 5,
+            "year": [
+                2018,
+                2017,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Plone": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "PMD": {
+            "count": 2,
+            "year": [
+                2018,
+                2017
+            ]
+        },
+        "Pocket Science Lab": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Polly Labs": {
+            "count": 2,
+            "year": [
+                2018,
+                2017
+            ]
+        },
+        "Probot": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Python HYDRA": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Quill.org": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "radare": {
+            "count": 2,
+            "year": [
+                2018,
+                2016
+            ]
+        },
+        "Rspamd": {
+            "count": 2,
+            "year": [
+                2018,
+                2017
+            ]
+        },
+        "Ruby on Rails": {
+            "count": 6,
+            "year": [
+                2018,
+                2017,
+                2015,
+                2014,
+                2013,
+                2009
+            ]
+        },
+        "Sage Mathematical Software System": {
+            "count": 7,
+            "year": [
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Scala": {
+            "count": 3,
+            "year": [
+                2018,
+                2017,
+                2016
+            ]
+        },
+        "Scilab": {
+            "count": 4,
+            "year": [
+                2018,
+                2017,
+                2012,
+                2011
+            ]
+        },
+        "Seastar": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Space @ Virginia Tech": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Stemformatics": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "STE||AR Group": {
+            "count": 2,
+            "year": [
+                2018,
+                2017
+            ]
+        },
+        "Stony Brook University Biomedical Informatics": {
+            "count": 2,
+            "year": [
+                2018,
+                2016
+            ]
+        },
+        "Streetmix": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Sustainable Computing Research Group (SCoRe)": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "Systers Community": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "TEAMMATES @ National University of Singapore": {
+            "count": 4,
+            "year": [
+                2018,
+                2017,
+                2016,
+                2015
+            ]
+        },
+        "The MacPorts Project": {
+            "count": 7,
+            "year": [
+                2018,
+                2017,
+                2015,
+                2014,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "The Qt Project": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "The syslog-ng project.": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "The Vega Visualization Tools by the UW Interactive Data Lab": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "TLA+": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "ViSP": {
+            "count": 2,
+            "year": [
+                2018,
+                2017
+            ]
+        },
+        "vitrivr": {
+            "count": 2,
+            "year": [
+                2018,
+                2016
+            ]
+        },
+        "WorldBrain.io - Verifying the Internet": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "X.org Foundation": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "XBMC Foundation": {
+            "count": 4,
+            "year": [
+                2018,
+                2017,
+                2015,
+                2012
+            ]
+        },
+        "Xi Editor Project": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "xpra.org": {
+            "count": 1,
+            "year": [
+                2018
+            ]
+        },
+        "AboutCode": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Babel": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Berkman Klein Center for Internet and Society at Harvard University": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Cadasta": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Ceph": {
+            "count": 3,
+            "year": [
+                2017,
+                2016,
+                2014
+            ]
+        },
+        "Clojure": {
+            "count": 4,
+            "year": [
+                2017,
+                2015,
+                2014,
+                2013
+            ]
+        },
+        "CMU Sphinx": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Copyleft Games": {
+            "count": 4,
+            "year": [
+                2017,
+                2016,
+                2015,
+                2014
+            ]
+        },
+        "Discourse": {
+            "count": 2,
+            "year": [
+                2017,
+                2016
+            ]
+        },
+        "Eclipse Vert.x": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Elm Software Foundation": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Environmental Data And Governance Initiative": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Freifunk": {
+            "count": 5,
+            "year": [
+                2017,
+                2016,
+                2014,
+                2010,
+                2009
+            ]
+        },
+        "Frescobaldi": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "GENIVI Development Platform": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Green Navigation": {
+            "count": 2,
+            "year": [
+                2017,
+                2016
+            ]
+        },
+        "illumos.org": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Intel Media and Audio for Linux": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "JSK Robotics Laboratory": {
+            "count": 2,
+            "year": [
+                2017,
+                2016
+            ]
+        },
+        "K-9 Mail": {
+            "count": 2,
+            "year": [
+                2017,
+                2011
+            ]
+        },
+        "KDE": {
+            "count": 9,
+            "year": [
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Liquid Galaxy Project": {
+            "count": 7,
+            "year": [
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "MariaDB": {
+            "count": 5,
+            "year": [
+                2017,
+                2016,
+                2015,
+                2014,
+                2013
+            ]
+        },
+        "Microkernel devroom": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Mifos Initiative": {
+            "count": 3,
+            "year": [
+                2017,
+                2016,
+                2014
+            ]
+        },
+        "Mono Project": {
+            "count": 7,
+            "year": [
+                2017,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2009
+            ]
+        },
+        "Nmap Security Scanner": {
+            "count": 9,
+            "year": [
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Open Detection": {
+            "count": 2,
+            "year": [
+                2017,
+                2016
+            ]
+        },
+        "Open Technologies Alliance - GFOSS": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "oVirt": {
+            "count": 2,
+            "year": [
+                2017,
+                2014
+            ]
+        },
+        "ownCloud": {
+            "count": 2,
+            "year": [
+                2017,
+                2016
+            ]
+        },
+        "Physical Web Project": {
+            "count": 2,
+            "year": [
+                2017,
+                2016
+            ]
+        },
+        "Plone Foundation": {
+            "count": 7,
+            "year": [
+                2017,
+                2016,
+                2014,
+                2013,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Portland State University": {
+            "count": 9,
+            "year": [
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "radare2": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Shogun Machine Learning Toolbox": {
+            "count": 5,
+            "year": [
+                2017,
+                2016,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Sigmah": {
+            "count": 5,
+            "year": [
+                2017,
+                2016,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Software Product Data Exchange (SPDX)": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Stony Brook University, Biomedical Informatics": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Sustainable Computing Research Group ( SCoRe )": {
+            "count": 3,
+            "year": [
+                2017,
+                2016,
+                2015
+            ]
+        },
+        "Systers, an Anita Borg Institute community": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "The CGAL Project": {
+            "count": 2,
+            "year": [
+                2017,
+                2013
+            ]
+        },
+        "The FreeType Project": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Tiled": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "TimVideos": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "Tor": {
+            "count": 2,
+            "year": [
+                2017,
+                2013
+            ]
+        },
+        "Urban Energy Systems Laboratory, Empa": {
+            "count": 2,
+            "year": [
+                2017,
+                2016
+            ]
+        },
+        "WorldBrain - Verifying the Internet with Science": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "WSO2": {
+            "count": 4,
+            "year": [
+                2017,
+                2016,
+                2015,
+                2014
+            ]
+        },
+        "wxWidgets": {
+            "count": 5,
+            "year": [
+                2017,
+                2014,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Xen Project": {
+            "count": 2,
+            "year": [
+                2017,
+                2014
+            ]
+        },
+        "Zenodo": {
+            "count": 1,
+            "year": [
+                2017
+            ]
+        },
+        "AOSSIE - The Australian National University's Open-Source Software Innovation and Education": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "ArchC": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "ASCEND": {
+            "count": 6,
+            "year": [
+                2016,
+                2015,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Berkman Center for Internet and Society": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "BioJS": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "BuildmLearn": {
+            "count": 3,
+            "year": [
+                2016,
+                2015,
+                2014
+            ]
+        },
+        "Canadian Centre for Computational Genomics (C3G) - Montreal node": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Celluloid": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "CERN SFT": {
+            "count": 5,
+            "year": [
+                2016,
+                2015,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Computational Science and Engineering at TU Wien": {
+            "count": 5,
+            "year": [
+                2016,
+                2014,
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "CVXPY": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "D Foundation": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "dbpediaspotlight": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Distributed and Unified Numerics Environment (DUNE)": {
+            "count": 2,
+            "year": [
+                2016,
+                2013
+            ]
+        },
+        "FOSDEM VZW": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Gambit - Software Tools for Game Theory": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Ganeti": {
+            "count": 4,
+            "year": [
+                2016,
+                2015,
+                2014,
+                2013
+            ]
+        },
+        "GitHub": {
+            "count": 2,
+            "year": [
+                2016,
+                2015
+            ]
+        },
+        "Global Alliance for Genomics & Health": {
+            "count": 2,
+            "year": [
+                2016,
+                2015
+            ]
+        },
+        "gnss-sdr": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Health Information Systems Programme": {
+            "count": 3,
+            "year": [
+                2016,
+                2014,
+                2013
+            ]
+        },
+        "Indic Project": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "International Neuroinformatics Coordinating Facility": {
+            "count": 6,
+            "year": [
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "Java Pathfinder Team": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Jenkins Project": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "jQuery Foundation": {
+            "count": 2,
+            "year": [
+                2016,
+                2015
+            ]
+        },
+        "KolibriOS": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "MBDyn, Department of Aerospace Science and Technology at Politecnico di Milano": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "McGill Space Institute": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "MetaBrainz Foundation": {
+            "count": 2,
+            "year": [
+                2016,
+                2009
+            ]
+        },
+        "MIT Media Lab": {
+            "count": 2,
+            "year": [
+                2016,
+                2015
+            ]
+        },
+        "mlpack: a scalable C++ machine learning library": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "ModSecurity": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Open Ephys": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "OpenKeychain (OpenPGP for Android)": {
+            "count": 3,
+            "year": [
+                2016,
+                2015,
+                2014
+            ]
+        },
+        "Orange – Data Mining Fruitful & Fun": {
+            "count": 3,
+            "year": [
+                2016,
+                2012,
+                2011
+            ]
+        },
+        "OSGeo - The Open Source Geospatial Foundation": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "OSU Open Source Lab": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Peragro": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "PLASMA-UMass": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "PRISM Model Checker": {
+            "count": 3,
+            "year": [
+                2016,
+                2014,
+                2013
+            ]
+        },
+        "Robocomp": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Scilab Enterprises": {
+            "count": 2,
+            "year": [
+                2016,
+                2015
+            ]
+        },
+        "Soletta Project": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Systers, an Anita Borg Institute Community": {
+            "count": 4,
+            "year": [
+                2016,
+                2015,
+                2014,
+                2013
+            ]
+        },
+        "The Apertium Project": {
+            "count": 2,
+            "year": [
+                2016,
+                2009
+            ]
+        },
+        "The Monarch Initiative": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "The STE||AR Group": {
+            "count": 3,
+            "year": [
+                2016,
+                2015,
+                2014
+            ]
+        },
+        "The syslog-ng project": {
+            "count": 3,
+            "year": [
+                2016,
+                2015,
+                2014
+            ]
+        },
+        "The Tor Project": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Timelab Technologies Ltd.": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Unitex/GramLab": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Vert.x": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "VideoLAN / VLMC Project": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Wayland": {
+            "count": 1,
+            "year": [
+                2016
+            ]
+        },
+        "Africa Soil Information Service": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "BEAM Community": {
+            "count": 3,
+            "year": [
+                2015,
+                2014,
+                2013
+            ]
+        },
+        "Bika Open Source LIMS Collective": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Buildbot": {
+            "count": 4,
+            "year": [
+                2015,
+                2014,
+                2013,
+                2011
+            ]
+        },
+        "CCExtractor development": {
+            "count": 2,
+            "year": [
+                2015,
+                2014
+            ]
+        },
+        "CentOS Project": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Ceph Storage": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Cesium Community": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "DBpedia & DBpedia Spotlight": {
+            "count": 3,
+            "year": [
+                2015,
+                2014,
+                2013
+            ]
+        },
+        "Department of Biomedical Informatics, Stony Brook University": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Encyclopedia of Life": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Foundation for Learning Equality": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "GCC - GNU Compiler Collection": {
+            "count": 4,
+            "year": [
+                2015,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Google Kubernetes": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "haskell.org": {
+            "count": 7,
+            "year": [
+                2015,
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "HPCC Systems®": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Interactive Spaces": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "International GeoGebra Institute": {
+            "count": 4,
+            "year": [
+                2015,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "IP-over-P2P Project": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "lmonade: scientific software distribution": {
+            "count": 3,
+            "year": [
+                2015,
+                2014,
+                2013
+            ]
+        },
+        "MBDyn, Department of Aerospace Engineering at the Polytechnic University of Milan": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "MEDES-IMPS": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "MinnowBoard Project": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Network Time Foundation": {
+            "count": 2,
+            "year": [
+                2015,
+                2013
+            ]
+        },
+        "OncoBlocks": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Open Source Computer Vision Library (OpenCV)": {
+            "count": 5,
+            "year": [
+                2015,
+                2014,
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "Openwall": {
+            "count": 3,
+            "year": [
+                2015,
+                2013,
+                2012
+            ]
+        },
+        "Oregon State University Open Source Lab (OSUOSL)": {
+            "count": 5,
+            "year": [
+                2015,
+                2014,
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "OSGeo - Open Source Geospatial Foundation": {
+            "count": 5,
+            "year": [
+                2015,
+                2014,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "PaGMO / PyKEP": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Pencil Code Foundation": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Pidgin, Finch, and libpurple": {
+            "count": 3,
+            "year": [
+                2015,
+                2013,
+                2012
+            ]
+        },
+        "PLASMA @ UMass": {
+            "count": 2,
+            "year": [
+                2015,
+                2013
+            ]
+        },
+        "Portable Native Client": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "PostgreSQL Project": {
+            "count": 4,
+            "year": [
+                2015,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Privly Foundation": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "RIOT": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "RouteFlow": {
+            "count": 3,
+            "year": [
+                2015,
+                2014,
+                2013
+            ]
+        },
+        "Rspamd spam filtering system": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Saros": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Scala Team": {
+            "count": 4,
+            "year": [
+                2015,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Subsurface": {
+            "count": 2,
+            "year": [
+                2015,
+                2014
+            ]
+        },
+        "TARDIS SN": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "The Concord Consortium": {
+            "count": 4,
+            "year": [
+                2015,
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "The Fedora Project": {
+            "count": 4,
+            "year": [
+                2015,
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "The OpenBSD Foundation": {
+            "count": 2,
+            "year": [
+                2015,
+                2014
+            ]
+        },
+        "The OpenCog Foundation": {
+            "count": 2,
+            "year": [
+                2015,
+                2014
+            ]
+        },
+        "The Visualization Toolkit": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Tox": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Tux4Kids": {
+            "count": 5,
+            "year": [
+                2015,
+                2013,
+                2012,
+                2010,
+                2009
+            ]
+        },
+        "University of Nebraska - Helikar Lab": {
+            "count": 1,
+            "year": [
+                2015
+            ]
+        },
+        "Xiph.Org Foundation": {
+            "count": 2,
+            "year": [
+                2015,
+                2009
+            ]
+        },
+        "AerospaceResearch.Net": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "Arches Project": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Association Tatoeba": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Battle for Wesnoth": {
+            "count": 4,
+            "year": [
+                2014,
+                2013,
+                2010,
+                2009
+            ]
+        },
+        "Benetech": {
+            "count": 3,
+            "year": [
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Bio4j": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "BioJavaScript": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Bookie": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "BumbleBee Autonomous Underwater Vehicle (BBAUV)": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Catrobat (formerly Catroid Project)": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Centre for Computational Medicine, SickKids Research Institute": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "CodeCombat": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "CodeMirror": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Crypto Stick": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "Crystal Space": {
+            "count": 6,
+            "year": [
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Dr. Memory": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Flowgrammable": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Freenet Project Inc": {
+            "count": 5,
+            "year": [
+                2014,
+                2013,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "Frenetic": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Gambit: Software Tools for Game Theory": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Ganglia": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Google Open Source Programs Office": {
+            "count": 5,
+            "year": [
+                2014,
+                2013,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "Grameen Foundation - MOTECH": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Groovy Community": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "HelenOS group at Department of Distributed and Dependable Systems, Charles University in Prague": {
+            "count": 3,
+            "year": [
+                2014,
+                2012,
+                2011
+            ]
+        },
+        "Italian Mars Society": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "jMonkeyEngine": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Joomla! (Open Source Matters)": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "KolibriOS Project Team": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Laboratory for Cosmological Data Mining": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Linaro": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Linux Trace Toolkit next generation project (LTTng)": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "LyX – The Document Processor ": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Melange": {
+            "count": 6,
+            "year": [
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "mlpack: scalable C++ machine learning library": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "Monkey Project": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "Netfilter Project": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "NetSurf": {
+            "count": 2,
+            "year": [
+                2014,
+                2009
+            ]
+        },
+        "OGDF - Open Graph Drawing Framework": {
+            "count": 3,
+            "year": [
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Open Education Resource Foundation": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Open Lighting Project": {
+            "count": 3,
+            "year": [
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Open Motion Planning Library": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "OSv": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Plan 9 from Bell Labs": {
+            "count": 5,
+            "year": [
+                2014,
+                2013,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Point Cloud Library (PCL)": {
+            "count": 3,
+            "year": [
+                2014,
+                2012,
+                2011
+            ]
+        },
+        "Project Tox": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Public Laboratory for Open Technology and Science": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "Raxa": {
+            "count": 3,
+            "year": [
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "Ruby Science Foundation (SciRuby)": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Sahana Software Foundation": {
+            "count": 5,
+            "year": [
+                2014,
+                2013,
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "Scaffold Hunter": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "Software Freedom Conservancy, Inc.": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "Steel Bank Common Lisp": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "Stratosphere Project": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "SuperTuxKart": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "Swathanthra Malayalam Computing": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "SyncDiff(erent)": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "TEAMMATES Project @ National University of Singapore": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "The CGAL Project ": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "The Fedora Project ": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "The OpenStack Foundation": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "The Privly Foundation": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "The Tor Project and EFF": {
+            "count": 1,
+            "year": [
+                2014
+            ]
+        },
+        "The Wiselib": {
+            "count": 3,
+            "year": [
+                2014,
+                2013,
+                2012
+            ]
+        },
+        "ThinkUp": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "Twitter": {
+            "count": 2,
+            "year": [
+                2014,
+                2012
+            ]
+        },
+        "TYPO3 Association": {
+            "count": 5,
+            "year": [
+                2014,
+                2013,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Visualization Toolkit (VTK)": {
+            "count": 2,
+            "year": [
+                2014,
+                2011
+            ]
+        },
+        "Wikimedia": {
+            "count": 2,
+            "year": [
+                2014,
+                2013
+            ]
+        },
+        "WordPress": {
+            "count": 5,
+            "year": [
+                2014,
+                2013,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "WorldForge": {
+            "count": 6,
+            "year": [
+                2014,
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "abiword": {
+            "count": 2,
+            "year": [
+                2013,
+                2012
+            ]
+        },
+        "Ankur India": {
+            "count": 2,
+            "year": [
+                2013,
+                2012
+            ]
+        },
+        "Bioconductor open source software for bioinformatics": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Bloomington, IN, USA": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Catroid Project": {
+            "count": 3,
+            "year": [
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "Cesium community": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Chromium": {
+            "count": 3,
+            "year": [
+                2013,
+                2010,
+                2009
+            ]
+        },
+        "Code for America": {
+            "count": 3,
+            "year": [
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "Crowdsourcing Biology at the Scripps Research Institute": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Dept. of Biomedical Informatics, Emory University": {
+            "count": 2,
+            "year": [
+                2013,
+                2012
+            ]
+        },
+        "DragonFly BSD": {
+            "count": 5,
+            "year": [
+                2013,
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Drizzle Database": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "ESUG (European Smalltalk User Group)": {
+            "count": 2,
+            "year": [
+                2013,
+                2012
+            ]
+        },
+        "Funf.org": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Genome Informatics": {
+            "count": 3,
+            "year": [
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "Gephi Consortium": {
+            "count": 3,
+            "year": [
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "GNU Image Manipulation Program": {
+            "count": 3,
+            "year": [
+                2013,
+                2011,
+                2009
+            ]
+        },
+        "illumos": {
+            "count": 3,
+            "year": [
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "Iowa Flood Center": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Italian Mars Society ": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "JRuby": {
+            "count": 2,
+            "year": [
+                2013,
+                2012
+            ]
+        },
+        "LyX – The Document Processor": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Maryland Institute for Technology in the Humanities": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Measurement Lab (M-Lab)": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Mercurial": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Mifos (The Community for Open Source Microfinance)": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "MLton.org": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "MoinMoin Wiki": {
+            "count": 4,
+            "year": [
+                2013,
+                2012,
+                2010,
+                2009
+            ]
+        },
+        "National Evolutionary Synthesis Center (NESCent)": {
+            "count": 2,
+            "year": [
+                2013,
+                2011
+            ]
+        },
+        "National Library of the Czech Republic": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "OGRE (Object-Oriented Graphics Rendering Engine) ": {
+            "count": 2,
+            "year": [
+                2013,
+                2012
+            ]
+        },
+        "Open Networking Lab": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "OpenNMS": {
+            "count": 3,
+            "year": [
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "OSGeo - Open Source Geospatial Foundation ": {
+            "count": 2,
+            "year": [
+                2013,
+                2009
+            ]
+        },
+        "OWASP": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "PaGMO / PyGMO": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Parrot Foundation": {
+            "count": 3,
+            "year": [
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "PiTiVi video editor": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Processing": {
+            "count": 3,
+            "year": [
+                2013,
+                2012,
+                2011
+            ]
+        },
+        "PulseAudio": {
+            "count": 2,
+            "year": [
+                2013,
+                2012
+            ]
+        },
+        "QEMU.org": {
+            "count": 2,
+            "year": [
+                2013,
+                2011
+            ]
+        },
+        "Quagga @ OpenSourceRouting / ISC": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "R Project for statistical Computing": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Simple DirectMedia Layer": {
+            "count": 4,
+            "year": [
+                2013,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "SimpleCV": {
+            "count": 2,
+            "year": [
+                2013,
+                2012
+            ]
+        },
+        "The Centre for Computational Medicine": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "The Open Motion Planning Library": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "twitter": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Wine Project": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "World Wide Web Consortium (W3C)": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "XBMC": {
+            "count": 1,
+            "year": [
+                2013
+            ]
+        },
+        "Artica ST ( Pandora FMS )": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Battle For Wesnoth": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Berkman Center for Internet & Society at Harvard University": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "biographer": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Bloomington, IN": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "BlueZ": {
+            "count": 4,
+            "year": [
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "BOINC project, University of California, Berkeley": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "CGAL - Computational Geometry Algorithms Library ": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Climate Code Foundation": {
+            "count": 2,
+            "year": [
+                2012,
+                2011
+            ]
+        },
+        "Clojure/dev": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "CMUSphinx": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Connexions": {
+            "count": 2,
+            "year": [
+                2012,
+                2011
+            ]
+        },
+        "Crowdsourcing Biology": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "DBpedia Spotlight": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Debian Project ": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Differ": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Digital Mars": {
+            "count": 2,
+            "year": [
+                2012,
+                2011
+            ]
+        },
+        "DocBook Project": {
+            "count": 2,
+            "year": [
+                2012,
+                2010
+            ]
+        },
+        "Drizzle": {
+            "count": 3,
+            "year": [
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "e-cidadania": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Electronic Frontier Foundation/The Tor Project": {
+            "count": 2,
+            "year": [
+                2012,
+                2011
+            ]
+        },
+        "Evergreen": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Formal Systems Laboratory at UIUC": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Freeseer recording and streaming suite": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "GIMP": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Grassroots DICOM": {
+            "count": 2,
+            "year": [
+                2012,
+                2011
+            ]
+        },
+        "GStreamer": {
+            "count": 4,
+            "year": [
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Hedgewars Project": {
+            "count": 2,
+            "year": [
+                2012,
+                2011
+            ]
+        },
+        "Interface Ecology Lab @ Texas A&M University": {
+            "count": 2,
+            "year": [
+                2012,
+                2011
+            ]
+        },
+        "iPXE": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Jikes RVM": {
+            "count": 3,
+            "year": [
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "Kernel.org - the Linux Kernel Organization": {
+            "count": 3,
+            "year": [
+                2012,
+                2011,
+                2010
+            ]
+        },
+        "Komodo OpenLab": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Learning Unlimited, Inc.": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Libav": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Measurement Lab": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Metalink": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "MINIX 3": {
+            "count": 2,
+            "year": [
+                2012,
+                2009
+            ]
+        },
+        "MIT Center for Mobile Learning @ The Media Lab": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Monkey HTTP Daemon": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "mySociety": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "National Evolutionary Synthesis Center": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Natural User Interface Group": {
+            "count": 3,
+            "year": [
+                2012,
+                2011,
+                2009
+            ]
+        },
+        "Network Time": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "New Visions for Public Schools": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Ninux.org": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Opencast Matterhorn ": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "OpenCog Foundation": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "OpenFlowHub": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "OpenICC": {
+            "count": 3,
+            "year": [
+                2012,
+                2010,
+                2009
+            ]
+        },
+        "OpenImageIO": {
+            "count": 4,
+            "year": [
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "OpenIntents": {
+            "count": 2,
+            "year": [
+                2012,
+                2011
+            ]
+        },
+        "PacketFence": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Puppet Labs": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Review Board": {
+            "count": 4,
+            "year": [
+                2012,
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "RooStats": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Sakai Project": {
+            "count": 2,
+            "year": [
+                2012,
+                2011
+            ]
+        },
+        "Scribus": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "SilverStripe": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Statistics Online Computational Resource": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Stellarium": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "SWIG": {
+            "count": 2,
+            "year": [
+                2012,
+                2009
+            ]
+        },
+        "Systers": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "The Gambit Project": {
+            "count": 2,
+            "year": [
+                2012,
+                2011
+            ]
+        },
+        "The LLVM Compiler Infrastructure ": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "The Outercurve Foundation": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Tianocore": {
+            "count": 2,
+            "year": [
+                2012,
+                2011
+            ]
+        },
+        "Umit Project": {
+            "count": 3,
+            "year": [
+                2012,
+                2011,
+                2009
+            ]
+        },
+        "Unknown Horizons and FIFE": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "Wine (a project of Software Freedom Conservancy) ": {
+            "count": 1,
+            "year": [
+                2012
+            ]
+        },
+        "AbiWord": {
+            "count": 3,
+            "year": [
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Astrometry.net": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Atomic Blue": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Center for the Study of Complex Systems, University of Michigan": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "CERN Virtual Machine (CernVM)": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "CGAL - Computational Geometry Algorithms Library": {
+            "count": 2,
+            "year": [
+                2011,
+                2010
+            ]
+        },
+        "CMUSphinx Speech Recognition Toolkit": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "darktable": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "DokuWiki": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "DuraSpace": {
+            "count": 2,
+            "year": [
+                2011,
+                2010
+            ]
+        },
+        "Ecole Polytechnique Federale de Lausanne, Scala Team": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Elgg": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Etherboot Project": {
+            "count": 3,
+            "year": [
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Evergreen Project": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "FFmpeg / Libav": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "FiberCorps": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "fluxbox": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "FreedroidRPG": {
+            "count": 2,
+            "year": [
+                2011,
+                2010
+            ]
+        },
+        "Freeseer video recording and streaming suite": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "GCC, the GNU Compiler Collection": {
+            "count": 2,
+            "year": [
+                2011,
+                2010
+            ]
+        },
+        "GNOME Project": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "GNU Project ": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "GnuCash Free Accounting Software": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Helsinki Institute for Information Technology": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Hugin - Panorama photo stitcher": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Inclusive Design Institute (IDI)": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Isabelle": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Jato VM": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Jitsi (SIP Communicator), Kamailio and SEMS": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Komodo OpenLab Inc.": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "LanguageTool": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Learning Unlimited": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "LimeSurvey": {
+            "count": 3,
+            "year": [
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Mapnik": {
+            "count": 2,
+            "year": [
+                2011,
+                2010
+            ]
+        },
+        "Marine Biological Laboratory - Center for Library and Informatics": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "MINIX 3 Research group at the Vrije Universiteit in Amsterdam, The Netherlands": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "MoinMoin": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "National Resource for Network Biology (GenMAPP, Cytoscape and WikiPathways)": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "NTP": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "OGRE - Open Source 3D Graphics Engine": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "OpenICC Color Management": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Openwall Project": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "PostgreSQL Global Development Group": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "R Project for Statistical Computing ": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Rockbox": {
+            "count": 3,
+            "year": [
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Scribus Team": {
+            "count": 2,
+            "year": [
+                2011,
+                2009
+            ]
+        },
+        "Selenium": {
+            "count": 2,
+            "year": [
+                2011,
+                2010
+            ]
+        },
+        "Sencha Labs": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "SETI Institute": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Shogun Machine Learning Toolbox (Technical University Berlin / Max Planck Campus Tübingen)": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "StatusNet": {
+            "count": 2,
+            "year": [
+                2011,
+                2010
+            ]
+        },
+        "Sunlight Labs": {
+            "count": 2,
+            "year": [
+                2011,
+                2010
+            ]
+        },
+        "Tcl/Tk Community": {
+            "count": 2,
+            "year": [
+                2011,
+                2010
+            ]
+        },
+        "The Battle for Wesnoth": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "The Codehaus": {
+            "count": 3,
+            "year": [
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "The Globus Alliance": {
+            "count": 3,
+            "year": [
+                2011,
+                2010,
+                2009
+            ]
+        },
+        "Theoretical Biophysics @ Humboldt University": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Universal Subtitles": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Unknown Horizons": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Wine": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Xen.org": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "XMMS2 - X-platform Music Multiplexing System 2": {
+            "count": 1,
+            "year": [
+                2011
+            ]
+        },
+        "Berkman Center at Harvard University": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "BigBlueButton": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Dojo Foundation ": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Dreamwidth Studios": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "European Smalltalk User Group (ESUG)": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "European Space Agency, The Advanced Concepts Team": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Expert Labs": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Facebook": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Geeklog": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "GenMAPP, Cytoscape, WikiPathways & Reactome": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Gephi NGO": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "GNU Image Manipulation Program - GIMP": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Go OpenOffice": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "Google Caja": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Grameen Foundation": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Hugin and panotools": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "LXDE Project": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Maemo Community": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "Marine Biological Laboratory Biodiversity Informatics Group-Encyclopedia of Life Project": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Mercurial Distributed Version Control System": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "MINIX 3 Group at the VU": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Mixxx Digital DJ": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Natural User Interface Group (NUI Group)": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "NESCent - National Evolutionary Synthesis Center": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "OAR": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "OMII-UK": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "Open Source Computer Vision Library": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "OpenAFS": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "OPeNDAP, Inc.": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "OpenInkpot project": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "OpenNebula": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Opticks": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Oregon State University Open Source Lab": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "Pardus": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "Pidgin, Finch and libpurple": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "PLSE at UW": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Princeton Center for Information Technology Policy": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Puppet (Reductive Labs)": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "QEMU development team": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Sakai Foundation": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "Scilab Consortium/Digiteo Foundation": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "SharpDevelop": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "SIP Communicator": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "Systers: Women in Computing": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "Tahoe-LAFS": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "The Asterisk Project": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "The Eclipse Foundation ": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "The FreeBSD Project": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "The Mono Project": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "The NTP Forum": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "The Tor Project/Electronic Frontier Foundation": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Thousand Parsec": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "Ubuntu": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Ushahidi": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "X.Org": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "xen.org": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "XMMS2": {
+            "count": 2,
+            "year": [
+                2010,
+                2009
+            ]
+        },
+        "YafaRay (Yet Another Free Raytracer)": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "École Polytechnique Fédérale de Lausanne, Scala team": {
+            "count": 1,
+            "year": [
+                2010
+            ]
+        },
+        "Association Gephi": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Atheme.org": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Audacity": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Boost C++ Libraries ": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "BZFlag": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Center for the Study of Complex Systems, Univ of Michigan": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Comprehensive C Archive Network": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "DSpace Foundation": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "ES Operating System": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Fedora Project & JBoss.org (Red Hat)": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Fiji": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Free Software Initiative of Japan": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "GCC": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "GenMAPP": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Gentoo": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Git Development Community": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Google's Open Source Programs Office": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Hackystat": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Hugin/Panotools": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Jato": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Mercurial (a member of the Software Freedom Conservancy)": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Mifos": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Mozilla Project": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "MySQL": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "National Center for Supercomputing Applications": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Native Client": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "NTP Project": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "OGRE": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Open64": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "OpenChange (a project of the Free Software Conservancy)": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "OpenCog sponsored by the Singularity Institute for Artificial Intelligence": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "OpenSSH": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "PHP": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "PKIF project": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Ptolemy Project, University of California, Berkeley": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "R Foundation for Statistical Computing": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Sahana": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Scilab/Digiteo Foundation": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "SCons next-generation build system": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Subversion": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Sugar Labs educational platform (a member of the SFC)": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Sunlight Foundation": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Tcl Community Association": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "The Aqsis Team": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "The Electronic Frontier Foundation/The Tor Project": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "The Enlightenment Project": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "The Freenet Project": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "The NetBSD Project": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "The Syslinux Project": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "TikiWiki CMS/Groupware": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "TurboGears": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "WinLibre": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        },
+        "Xelerance Corporation": {
+            "count": 1,
+            "year": [
+                2009
+            ]
+        }
+    }
+}
