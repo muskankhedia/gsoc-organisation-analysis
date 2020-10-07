@@ -40,7 +40,17 @@ app.get("/org-data", (req, res) => {
     });
     data = db.getData("/ORGData");
   }
-  res.send(data);
+  var resultArray = Object.keys(data).map(function (
+    orgNamedIndex
+  ) {
+    let org = {
+      orgName: orgNamedIndex,
+      count: data[orgNamedIndex].count,
+      year: data[orgNamedIndex].year,
+    };
+    return org;
+  });
+  res.send(resultArray);
 });
 
 app.listen(port, () => console.log(`Listening on port ${port}`));

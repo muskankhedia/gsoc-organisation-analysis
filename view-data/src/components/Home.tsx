@@ -6,14 +6,10 @@ import Card from "@material-ui/core/Card";
 import CardActionArea from "@material-ui/core/CardActionArea";
 import CardContent from "@material-ui/core/CardContent";
 import { HomePageStyle } from "../css/HomePageStyle";
-import { HOST } from "../utils/utils";
+// import { HOST } from "../utils/utils";
 import { TextField } from "@material-ui/core";
-import CircularIndeterminate from "./CircularIndeterminate";
-
-interface OrgEntireData {
-  count: Number;
-  year: Number[];
-}
+// import CircularIndeterminate from "./CircularIndeterminate";
+import { OrgWiseData as data } from "../data/OrgWiseData";
 
 interface OrgArrayDataType {
   orgName: String;
@@ -21,55 +17,24 @@ interface OrgArrayDataType {
   year: Number[];
 }
 
-type OrgDataType = { [orgName: string]: OrgEntireData };
-
 const Home: FC<{}> = () => {
   const classes = HomePageStyle();
-  const [data, setData] = useState({} as OrgDataType);
-  const [searchValue, setSearchValue] = useState("");
-  const [filteredOrgss, setFilteredOrgss] = useState<OrgArrayDataType[]>([]);
-  const [loading, setLoading] = useState(true);
+  const [filteredOrgs, setfilteredOrgs] = useState<OrgArrayDataType[]>([]);
+  // const [loading, setLoading] = useState(false);
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    fetch(`${HOST}/org-data`)
-      .then((response) => response.json())
-      .then((data) => {
-        console.log(data);
-        setData(data);
-      })
-      .catch((err) => console.log(err));
+    setfilteredOrgs(data);
   }, []);
 
-  var resultArray: OrgArrayDataType[] = Object.keys(data).map(function (
-    orgNamedIndex
-  ) {
-    let org: OrgArrayDataType = {
-      orgName: orgNamedIndex,
-      count: data[orgNamedIndex].count,
-      year: data[orgNamedIndex].year,
-    };
-    return org;
-  });
-
-  useEffect(() => {
-    let filteredOrgs = resultArray.filter((contact) => {
-      return contact;
-    });
-    setFilteredOrgss(filteredOrgs);
-    if(filteredOrgs.length > 0){
-      setLoading(false)
-    }
-  }, [data]);
-
-  useEffect(() => {
-    let filteredOrgs = resultArray.filter((contact) => {
+  const searchFilter = (searchValue: string) => {
+    let filteredOrgs = data.filter((ele) => {
       return (
-        contact.orgName.toLowerCase().indexOf(searchValue.toLowerCase()) !== -1
+        ele.orgName.toLowerCase().indexOf(searchValue.toLowerCase()) !== -1
       );
     });
-    setFilteredOrgss(filteredOrgs);
-  }, [searchValue]);
+    setfilteredOrgs(filteredOrgs);
+  };
 
   return (
     <>
@@ -88,17 +53,16 @@ const Home: FC<{}> = () => {
               color="secondary"
               style={{ float: "right", width: "25rem" }}
               onChange={(event) => {
-                setSearchValue(event.target.value);
+                searchFilter(event.target.value);
               }}
             />
           </div>
         </div>
-        {loading ? (
+        {/* {loading ? (
           <CircularIndeterminate />
-          // <div className="loader" />
-        ) : (
+        ) : ( */}
           <Grid container spacing={3}>
-            {filteredOrgss.map((eachOrgData: OrgArrayDataType, index: any) => {
+            {filteredOrgs.map((eachOrgData: OrgArrayDataType, index: any) => {
               return (
                 <Grid item xs={12} sm={6} md={4} key={index}>
                   <Card className={classes.card}>
@@ -135,7 +99,7 @@ const Home: FC<{}> = () => {
               );
             })}
           </Grid>
-        )} 
+        {/* )} */}
       </Container>
     </>
   );
