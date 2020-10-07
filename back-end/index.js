@@ -11,6 +11,20 @@ var db = new JsonDB(new Config('./dbs/ORGData', true, true, "/"));
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
+app.use(
+  express.text({
+    type: "text/plain",
+  })
+);
+
+app.use((_, res, next) => {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header(
+    "Access-Control-Allow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept"
+  );
+  next();
+});
 
 app.get("/", (req, res) => {
   res.send("start");
