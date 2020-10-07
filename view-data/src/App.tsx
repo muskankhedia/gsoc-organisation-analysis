@@ -1,23 +1,32 @@
-import React, { useEffect } from 'react';
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
-import { HOST } from './utils/utils';
+import { ThemeProvider, createMuiTheme } from "@material-ui/core";
+import { blue } from "@material-ui/core/colors";
+import Navbar from "./components/Navbar";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import Home from './components/Home';
+
+const theme = createMuiTheme({
+  palette: {
+    primary: blue,
+  },
+  typography: {
+    fontFamily: ["PT Sans"].join(","),
+    fontSize: 12,
+  },
+});
 
 function App() {
-  useEffect(()=>{
-    fetch("https://agile-depths-71250.herokuapp.com/org-data")
-      .then((response) => response.json())
-      .then(data => {
-        console.log(data)
-      })
-      .catch((err) => console.log(err));
-  }, [])
 
   return (
-    <div className="App">
-      
-    </div>
+    <ThemeProvider theme={theme}>
+      <Router>
+        <Navbar />
+        <Switch>
+          <Route exact={true} path="/" component={Home} />
+        </Switch>
+      </Router>
+    </ThemeProvider>
   );
 }
-
 export default App;
