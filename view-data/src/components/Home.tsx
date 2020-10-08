@@ -6,9 +6,7 @@ import Card from "@material-ui/core/Card";
 import CardActionArea from "@material-ui/core/CardActionArea";
 import CardContent from "@material-ui/core/CardContent";
 import { HomePageStyle } from "../css/HomePageStyle";
-// import { HOST } from "../utils/utils";
 import { TextField } from "@material-ui/core";
-// import CircularIndeterminate from "./CircularIndeterminate";
 import { OrgWiseData as data } from "../data/OrgWiseData";
 import '../css/heading.css';
 
@@ -35,7 +33,6 @@ interface OrgArrayDataType {
 const Home: FC<{}> = () => {
   const classes = HomePageStyle();
   const [filteredOrgs, setfilteredOrgs] = useState<OrgArrayDataType[]>([]);
-  // const [loading, setLoading] = useState(false);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -74,9 +71,6 @@ const Home: FC<{}> = () => {
             />
           </Grid>
         </Grid>
-        {/* {loading ? (
-          <CircularIndeterminate />
-        ) : ( */}
         <Grid container spacing={3}>
           {filteredOrgs.map((eachOrgData: OrgArrayDataType, index: any) => {
             return (
@@ -137,7 +131,6 @@ const Home: FC<{}> = () => {
             );
           })}
         </Grid>
-        {/* )} */}
       </Container>
     </>
   );
