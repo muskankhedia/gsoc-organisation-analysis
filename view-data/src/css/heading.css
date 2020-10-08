@@ -1,0 +1,16 @@
+/* TABLETS PORTRAIT */
+@media only screen and (min-width: 768px) {
+    .textFieldDesign {
+        width: 25rem;
+    }
+
+}
+
+
+/* TABLET LANDSCAPE / DESKTOP */
+@media only screen and (min-width: 1024px) {
+.textFieldDesign {
+        width: 25rem;
+    }
+
+} 
