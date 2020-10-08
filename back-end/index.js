@@ -7,8 +7,10 @@ const express = require("express"),
   app = express(),
   yearWiseData = new YearWiseData();
 
+// Create a new DB to store the org data
 var db = new JsonDB(new Config('./dbs/ORGData', true, true, "/"));
 
+// Body Parser
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(
@@ -17,6 +19,7 @@ app.use(
   })
 );
 
+// Handling cors - in case it is used as API
 app.use((_, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");
   res.header(
@@ -26,30 +29,51 @@ app.use((_, res, next) => {
   next();
 });
 
+// Checks if the server is connected
 app.get("/", (req, res) => {
   res.send("start");
 });
 
+// Fetches the org data
 app.get("/org-data", (req, res) => {
   var data;
+
+  // Checks if the data is present in the database file.
   try {
     data = db.getData("/ORGData");
-  } catch {
+  } catch {           // If not then scraps the data and stores in the database
     yearWiseData.getOrgYearWiseData().then((data) => {
-      db.push("/ORGData", data, false);
+      db.push("/", data, false);
     });
     data = db.getData("/ORGData");
   }
+
+  // Converts object of objects fetched from the database to array of objects
   var resultArray = Object.keys(data).map(function (
     orgNamedIndex
   ) {
     let org = {
+      ...data[orgNamedIndex],
       orgName: orgNamedIndex,
-      count: data[orgNamedIndex].count,
-      year: data[orgNamedIndex].year,
     };
     return org;
   });
+
+  // Sorts the data in ascending order based on the org name
+  resultArray.sort((a, b) => {
+    let fa = a.orgName.toLowerCase(),
+      fb = b.orgName.toLowerCase();
+
+    if (fa < fb) {
+      return -1;
+    }
+    if (fa > fb) {
+      return 1;
+    }
+    return 0;
+  });
+
+  // Sends the resulted sorted array
   res.send(resultArray);
 });
 

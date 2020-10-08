@@ -17,5 +17,10 @@ export const HomePageStyle = makeStyles((theme) => ({
   },
   orgYearAppeared: {
     lineHeight: "2rem",
+    fontSize: "16px"
+  },
+  linkStyle: {
+    color: 'black',
+    textDecoration: 'none'
   },
 }));

@@ -12,10 +12,24 @@ import { TextField } from "@material-ui/core";
 import { OrgWiseData as data } from "../data/OrgWiseData";
 import '../css/heading.css';
 
+interface yearLink {
+  link: string
+}
 interface OrgArrayDataType {
   orgName: String;
   count: Number;
   year: Number[];
+  "2020"?: string;
+  "2019"?: string;
+  "2018"?: string;
+  "2017"?: string;
+  "2016"?: string;
+  "2015"?: string;
+  "2014"?: string;
+  "2013"?: string;
+  "2012"?: string;
+  "2010"?: string;
+  "2009"?: string;
 }
 
 const Home: FC<{}> = () => {
@@ -70,28 +84,50 @@ const Home: FC<{}> = () => {
                 <Card className={classes.card}>
                   <CardActionArea>
                     <CardContent>
-                      <Typography gutterBottom variant="h5" component="h2">
+                      <Typography gutterBottom variant="h5">
                         {eachOrgData.orgName}
                       </Typography>
-                      {eachOrgData?.year.map((yr, innerIndex) => {
-                        if (innerIndex !== 0) {
+                      <Typography component="p">
+                        Year Participated:
+                      </Typography>
+                      {Object.keys(eachOrgData).map((year, index) => {
+                        if (
+                          year === "2020" ||
+                          year === "2019" ||
+                          year === "2018" ||
+                          year === "2017" ||
+                          year === "2016" ||
+                          year === "2015" ||
+                          year === "2014" ||
+                          year === "2013" ||
+                          year === "2012" ||
+                          year === "2011" ||
+                          year === "2010" ||
+                          year === "2009"
+                        ) {
+                          var link = Object.values(eachOrgData)[index];
                           return (
                             <span
-                              key={innerIndex}
+                              key={index}
                               className={classes.orgYearAppeared}
                             >
-                              , {yr}
+                              <a
+                                className="linkStyle"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                href={
+                                  parseInt(year) >= 2016
+                                    ? `https://summerofcode.withgoogle.com/${link}`
+                                    : `https://www.google-melange.com/${link}`
+                                }
+                              >
+                                {year}
+                              </a>
+                              {"  "}
                             </span>
                           );
                         } else {
-                          return (
-                            <span
-                              key={innerIndex}
-                              className={classes.orgYearAppeared}
-                            >
-                              {yr}
-                            </span>
-                          );
+                          return null;
                         }
                       })}
                     </CardContent>
