@@ -11,16 +11,18 @@ export const HomePageStyle = makeStyles((theme) => ({
   card: {
     maxWidth: "100%",
     height: "100%",
+    background: "linear-gradient(white, aliceblue)",
+    borderRadius: "0.5rem",
   },
   media: {
     height: 240,
   },
   orgYearAppeared: {
     lineHeight: "2rem",
-    fontSize: "16px"
+    fontSize: "16px",
   },
   linkStyle: {
-    color: 'black',
-    textDecoration: 'none'
+    color: "black",
+    textDecoration: "none",
   },
 }));
