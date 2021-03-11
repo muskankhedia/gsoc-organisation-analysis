@@ -9,6 +9,8 @@ import { HomePageStyle } from "../css/HomePageStyle";
 import { TextField } from "@material-ui/core";
 import { OrgWiseData as data } from "../data/OrgWiseData";
 import '../css/heading.css';
+import 'react-app-polyfill/ie11';
+import GitHubRibbon from 'react-github-ribbons';
 
 interface yearLink {
   link: string
@@ -51,6 +53,12 @@ const Home: FC<{}> = () => {
   return (
     <>
       <Container maxWidth="lg" className={classes.orgsContainer}>
+        <GitHubRibbon 
+          target="_blank"
+          rel="noopener noreferrer" 
+          href="https://github.com/muskankhedia/gsoc-organisation-analysis" 
+          color="white" 
+          position="right" />
         <Grid container spacing={3}>
           <Grid item xs={6}>
             <Typography variant="h4" className={classes.orgTitle}>
